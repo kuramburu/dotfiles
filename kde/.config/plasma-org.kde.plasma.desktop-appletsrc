@@ -4,17 +4,6 @@ RightButton;NoModifier=org.kde.contextmenu
 [ActionPlugins][1]
 RightButton;NoModifier=org.kde.contextmenu
 
-[Containments][1]
-ItemGeometries-3440x1440=
-ItemGeometriesHorizontal=
-activityId=f56f1e48-02f1-4016-a3f1-88f6b6cfd939
-formfactor=0
-immutability=1
-lastScreen=0
-location=0
-plugin=org.kde.plasma.folder
-wallpaperplugin=org.kde.image
-
 [Containments][2]
 activityId=
 formfactor=2
@@ -152,6 +141,9 @@ plugin=org.kde.plasma.digitalclock
 popupHeight=400
 popupWidth=560
 
+[Containments][24][Applets][40][Configuration][Appearance]
+fontWeight=400
+
 [Containments][24][Applets][41]
 immutability=1
 plugin=org.kde.plasma.lock_logout
@@ -171,6 +163,17 @@ plugin=org.kde.plasma.panelspacer
 [Containments][24][General]
 AppletOrder=25;42;26;40;41
 
+[Containments][43]
+ItemGeometries-3440x1440=
+ItemGeometriesHorizontal=
+activityId=866781a2-451e-423d-a1bf-3d32056d92b0
+formfactor=0
+immutability=1
+lastScreen=0
+location=0
+plugin=org.kde.plasma.folder
+wallpaperplugin=org.kde.image
+
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=
+screenMapping=desktop:/POST_INSTALL_CHECKLIST.txt,0,866781a2-451e-423d-a1bf-3d32056d92b0
