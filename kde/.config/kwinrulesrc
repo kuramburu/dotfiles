@@ -1,0 +1,96 @@
+[3dbab9f7-936a-48ae-b504-a442c2141bc6]
+Description=Window settings for com.mitchellh.ghostty
+placementrule=2
+size=1530,1013
+sizerule=3
+title=~ - fish
+types=1
+wmclass=ghostty com.mitchellh.ghostty
+wmclasscomplete=true
+wmclassmatch=1
+
+[40435880-96aa-47df-aa9b-0dddde9b6b66]
+Description=Window settings for org.telegram.desktop
+placementrule=2
+size=1235,847
+sizerule=3
+title=Telegram
+types=1
+wmclass=Telegram org.telegram.desktop
+wmclasscomplete=true
+wmclassmatch=1
+
+[5f0ba48c-faa6-441b-8c9a-98179cae181b]
+Description=Window settings for obsidian
+placementrule=2
+size=1704,961
+sizerule=3
+title=Snapshots - Sys - Obsidian 1.12.7
+types=1
+wmclass=electron obsidian
+wmclasscomplete=true
+wmclassmatch=1
+
+[76bbc025-5d78-46fe-9de1-2a96d2d73e1a]
+Description=Window settings for signal
+placementrule=2
+size=1169,759
+sizerule=3
+title=Signal
+types=1
+wmclass=signal-desktop signal
+wmclasscomplete=true
+wmclassmatch=1
+
+[8423fee0-29d9-419c-8c39-b6723650e7be]
+Description=Window settings for brave-origin
+size=2403,1341
+sizerule=3
+title=Discord | #general | Dama's Space - Brave Origin
+types=1
+wmclass=brave brave-origin
+wmclasscomplete=true
+wmclassmatch=1
+
+[General]
+Order=steam,c9346428-64ed-42e6-a87f-5e5295474284,ab01db6b-3311-45cd-a8a8-a5a852e333bc,8423fee0-29d9-419c-8c39-b6723650e7be,5f0ba48c-faa6-441b-8c9a-98179cae181b,e65f1f96-815e-4084-b48b-4b500081b65f,76bbc025-5d78-46fe-9de1-2a96d2d73e1a,40435880-96aa-47df-aa9b-0dddde9b6b66,abc11484-a218-436f-8aaa-2a7fee63bb79,3dbab9f7-936a-48ae-b504-a442c2141bc6
+
+[ab01db6b-3311-45cd-a8a8-a5a852e333bc]
+Description=Window settings for XIVLauncher.Core
+placementrule=2
+title=XIVLauncher 1.4.0 (06c3298)
+titlematch=1
+types=1
+wmclass=XIVLauncher.Core
+wmclassmatch=1
+
+[abc11484-a218-436f-8aaa-2a7fee63bb79]
+Description=Window settings for org.kde.dolphin
+placementrule=2
+size=1449,879
+sizerule=3
+title=Home — Dolphin
+types=1
+wmclass=dolphin org.kde.dolphin
+wmclasscomplete=true
+wmclassmatch=1
+
+[c9346428-64ed-42e6-a87f-5e5295474284]
+Description=Application settings for kitty
+placementrule=2
+wmclass=kitty
+wmclassmatch=1
+
+[e65f1f96-815e-4084-b48b-4b500081b65f]
+Description=Window settings for Spotify
+clientmachine=localhost
+placementrule=2
+size=1950,1205
+sizerule=3
+title=Spotify Premium
+types=1
+windowrole=spotify
+windowrolematch=1
+wmclass=spotify Spotify
+wmclasscomplete=true
+wmclassmatch=1
